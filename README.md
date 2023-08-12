@@ -28,7 +28,7 @@
 
 <br>
 <div id="plan" align="center">
-<p> Впереди освоение React, Node.js и TypeScript</p>
+<p> В плане до конца года освоение React, Node.js и TypeScript</p>
 </div>
 
 
