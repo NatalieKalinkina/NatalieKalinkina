@@ -3,15 +3,14 @@
 </div>
 
 
-<div id="main" align="center">
-<p>Учусь на курсе Веб-разработки в Яндекс.Практикум.</p>
-<p>В рамках обучения я создала несколько проектов (все они прошли код-ревью и получили одобрение опытных менторов):</p>
-</div>
+<p align="center">Учусь на курсе Веб-разработки в Яндекс.Практикум.</p>
+<p>В рамках обучения я создала несколько проектов. Код написан в методологии БЭМ, JS-код проекта Mesto - в парадигме ООП. Все работы прошли код-ревью и получили одобрение опытных менторов:</p>
+
 
 <div id="project" align="center">
 <a href="https://nataliekalinkina.github.io/russian-travel/"><img title="Путешествия по России. Сайт с адаптивной вёрсткой" src="https://iili.io/HDR6res.png" height="100" alt="Путешествия по России"></a>&nbsp; 
 <a href="https://nataliekalinkina.github.io/how-to-learn/"><img title="Научиться учиться. Простой лэндинг с CSS-анимацией" src="https://iili.io/HDRg4mx.gif"  height="100" alt="Научиться учиться"></a>&nbsp;
-<a href="https://nataliekalinkina.github.io/mesto/"><img title="Проект Место. Сайт с интерактивной частью на JavaScript" src="https://iili.io/HDR6R5u.png" height="100" alt="Проект Место"></a>
+<a href="https://nataliekalinkina.github.io/mesto/"><img title="Проект Место. Сайт с интерактивной частью на JavaScript" src="https://iili.io/HDR6R5u.png" height="100" alt="Проект Место"></a>&nbsp;
 </div>
 
 <br>
