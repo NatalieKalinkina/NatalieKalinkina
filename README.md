@@ -28,7 +28,7 @@
 
 <br>
 <div>
-<p> В плане до конца года освоение React, Node.js и TypeScript</p>
+<p> В плане до конца года освоение Node.js и TypeScript</p>
 </div>
 
 <div>
