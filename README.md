@@ -30,12 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node.js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongoDB" width="40" height="40"/>&nbsp; 
 </div>
-
 &nbsp;
-<div>
-  <p> В плане до конца года написание дипломной работы </p>
-</div>
-
 <div>
   <h3>Мои контакты:</h3>
     <a href="mailto:nataliekalinkina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
