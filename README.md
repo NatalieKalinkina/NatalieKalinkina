@@ -15,11 +15,11 @@
 </div>&nbsp;
 
 <p>Завершающий учебный проект: SPA на React и Node.js с возможностью регистрации пользователя, редактированием данных, поиском фильмов по ключевым словам, сохранением фильмов и удалением их из личного кабинета.</p>
-<a href="https://nk.movies.nomoredomainsmonster.ru/"><img title="Проект Movies Explorer. SPA на React и Node.js" src="https://iili.io/Jaknxwv.jpg" height="100" alt="Проект Movies Explorer"></a>&nbsp;
+<a href="https://github.com/NatalieKalinkina/movies-explorer-frontend"><img title="Проект Movies Explorer. SPA на React и Node.js" src="https://iili.io/Jaknxwv.jpg" height="100" alt="Проект Movies Explorer"></a>&nbsp;
 
 &nbsp;
 <div>
-<h3> Мой технологический стек:</h3>
+<h3> Стек:</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
@@ -27,7 +27,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="webpack" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" title="mui" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node.js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="nestJS" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongoDB" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="bootstrap" width="40" height="40"/>&nbsp;
 </div>
