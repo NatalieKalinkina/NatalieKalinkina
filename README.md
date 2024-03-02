@@ -8,14 +8,14 @@
 
 
 <div>
-<a href="https://nataliekalinkina.github.io/russian-travel/"><img title="Путешествия по России. Лэндинг с адаптивной вёрсткой" src="https://iili.io/HDR6res.png" height="100" alt="Путешествия по России"></a>&nbsp; 
-<a href="https://nataliekalinkina.github.io/how-to-learn/"><img title="Научиться учиться. Лэндинг с CSS-анимацией" src="https://iili.io/HDRg4mx.gif"  height="100" alt="Научиться учиться"></a>&nbsp;
-<a href="https://nataliekalinkina.github.io/mesto/"><img title="Проект Mesto. Веб-сервис на JavaScript" src="https://iili.io/HDR6R5u.png" height="100" alt="Проект Место"></a>&nbsp;
-<a href="https://github.com/NatalieKalinkina/react-mesto-api-full-gha"><img title="Проект Mesto. SPA на React и Node.js" src="https://iili.io/HDR6R5u.png" height="100" alt="Проект Место"></a>&nbsp;
+<a href="https://nataliekalinkina.github.io/russian-travel/" target="_blank"><img title="Путешествия по России. Лэндинг с адаптивной вёрсткой" src="https://iili.io/HDR6res.png" height="100" alt="Путешествия по России"></a>&nbsp; 
+<a href="https://nataliekalinkina.github.io/how-to-learn/" target="_blank"><img title="Научиться учиться. Лэндинг с CSS-анимацией" src="https://iili.io/HDRg4mx.gif"  height="100" alt="Научиться учиться"></a>&nbsp;
+<a href="https://nataliekalinkina.github.io/mesto/" target="_blank"><img title="Проект Mesto. Веб-сервис на JavaScript" src="https://iili.io/HDR6R5u.png" height="100" alt="Проект Место"></a>&nbsp;
+<a href="https://github.com/NatalieKalinkina/react-mesto-api-full-gha" target="_blank"><img title="Проект Mesto. SPA на React и Node.js" src="https://iili.io/HDR6R5u.png" height="100" alt="Проект Место"></a>&nbsp;
 </div>&nbsp;
 
 <p>Завершающий учебный проект: SPA на React и Node.js с возможностью регистрации пользователя, редактированием данных, поиском фильмов по ключевым словам, сохранением фильмов и удалением их из личного кабинета.</p>
-<a href="https://github.com/NatalieKalinkina/movies-explorer-frontend"><img title="Проект Movies Explorer. SPA на React и Node.js" src="https://iili.io/Jaknxwv.jpg" height="100" alt="Проект Movies Explorer"></a>&nbsp;
+<a href="https://github.com/NatalieKalinkina/movies-explorer-frontend" target="_blank"><img title="Проект Movies Explorer. SPA на React и Node.js" src="https://iili.io/Jaknxwv.jpg" height="100" alt="Проект Movies Explorer"></a>&nbsp;
 
 &nbsp;
 <div>
