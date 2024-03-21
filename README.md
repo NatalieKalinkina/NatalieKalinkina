@@ -15,7 +15,7 @@
 </div>&nbsp;
 
 <p>Завершающий учебный проект: SPA на React и Node.js с возможностью регистрации пользователя, редактированием данных, поиском фильмов по ключевым словам, сохранением фильмов и удалением их из личного кабинета.</p>
-<a href="https://github.com/NatalieKalinkina/movies-explorer-frontend" target="_blank"><img title="Проект Movies Explorer. SPA на React и Node.js" src="https://iili.io/Jaknxwv.jpg" height="100" alt="Проект Movies Explorer"></a>&nbsp;
+<a href="https://movies-explorer-frontend-3syg.onrender.com/" target="_blank"><img title="Проект Movies Explorer. SPA на React и Node.js" src="https://iili.io/Jaknxwv.jpg" height="100" alt="Проект Movies Explorer"></a>&nbsp;
 
 &nbsp;
 <div>
