@@ -1,43 +1,33 @@
-<div id="header" >
-<h1>Привет! Я - Наталья, начинающая front-end разработчица</h1>
-</div>
+# Привет! Я - Наталья, frontend разработчица
 
+- Люблю айти-сферу за то, как стремительно она меняет жизнь к лучшему
+- Постоянно учусь, стремлюсь к росту своих навыков и расширению опыта
+- Мечтаю быть причастной к созданию сервиса, который двигает прогресс и улучшает качество жизни людей
+- Активно ищу работу. [Вот мое резюме](https://drive.google.com/file/d/1cHofo6vufPH_mS6XAKisFITQDA0vRZlW/view?usp=sharing)
 
-<p>Закончила курс Веб-разработки в Яндекс.Практикум.</p>
-<p>В рамках обучения создала несколько проектов. Код написан в методологии БЭМ, JS-код проекта Mesto - в парадигме ООП. Все работы прошли код-ревью и получили одобрение опытных менторов:</p>
-
-
+### Стек:
 <div>
-<a href="https://nataliekalinkina.github.io/russian-travel/" target="_blank"><img title="Путешествия по России. Лэндинг с адаптивной вёрсткой" src="https://iili.io/HDR6res.png" height="100" alt="Путешествия по России"></a>&nbsp; 
-<a href="https://nataliekalinkina.github.io/how-to-learn/" target="_blank"><img title="Научиться учиться. Лэндинг с CSS-анимацией" src="https://iili.io/HDRg4mx.gif"  height="100" alt="Научиться учиться"></a>&nbsp;
-<a href="https://nataliekalinkina.github.io/mesto/" target="_blank"><img title="Проект Mesto. Веб-сервис на JavaScript" src="https://iili.io/HDR6R5u.png" height="100" alt="Проект Место"></a>&nbsp;
-<a href="https://github.com/NatalieKalinkina/react-mesto-api-full-gha" target="_blank"><img title="Проект Mesto. SPA на React и Node.js" src="https://iili.io/HDR6R5u.png" height="100" alt="Проект Место"></a>&nbsp;
-</div>&nbsp;
-
-<p>Завершающий учебный проект: SPA на React и Node.js с возможностью регистрации пользователя, редактированием данных, поиском фильмов по ключевым словам, сохранением фильмов и удалением их из личного кабинета.</p>
-<a href="https://movies-explorer-frontend-3syg.onrender.com/" target="_blank" ><img title="Проект Movies Explorer. SPA на React и Node.js" src="https://iili.io/Jaknxwv.jpg" height="100" alt="Проект Movies Explorer"></a>&nbsp;
-
-&nbsp;
-<div>
-<h3> Стек:</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="ts" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title="redux" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="express" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="webpack" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" title="mui" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node.js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="nestJS" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="vite" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongoDB" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" title="mui" width="40" height="40"/>&nbsp;
 </div>
 &nbsp;
+
+### Cтатистика:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nataliekalinkina&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+&nbsp;
+
+### Мои контакты:
 <div>
-  <h3>Мои контакты:</h3>
     <a href="mailto:nataliekalinkina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
     <a href="https://t.me/mss_nataly"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>&nbsp;
 </div>
-
 
